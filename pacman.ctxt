@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ main()
+comment1.params=
+comment1.target=void\ mark_assign()
+comment2.params=
+comment2.target=void\ print()
+comment3.params=
+comment3.target=void\ pacman_change()
+comment4.params=
+comment4.target=void\ opponent_change()
+comment5.params=
+comment5.target=void\ intermediate()
+comment6.params=
+comment6.target=void\ start()
+numComments=7

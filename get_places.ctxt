@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int\ get_OpponentPlace()
+comment1.params=
+comment1.target=int\ get_PacmanPlace()
+numComments=2
